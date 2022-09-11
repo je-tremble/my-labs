@@ -1,2 +1,2 @@
 # my-labs
-# Collection of laboratory works. I hope all be fine.
+Collection of laboratory works. I hope all be fine.
